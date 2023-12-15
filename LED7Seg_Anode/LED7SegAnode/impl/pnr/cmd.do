@@ -1,0 +1,12 @@
+-d D:\FPGA_TangNano\LED7Seg_Anode\LED7SegAnode\impl\gwsynthesis\LED7SegAnode.vg
+-p GW1NR-9C-QFN88P-6
+-pn GW1NR-LV9QN88PC6/I5
+-cst D:\FPGA_TangNano\LED7Seg_Anode\LED7SegAnode\src\LED7SegAnode.cst
+-cfg D:\FPGA_TangNano\LED7Seg_Anode\LED7SegAnode\impl\pnr\device.cfg
+-bit
+-tr
+-ph
+-timing
+-cst_error
+-correct_hold 1
+-route_maxfan 23

@@ -1,0 +1,29 @@
+Reading netlist file: "D:\FPGA_TangNano\LED7Seg_Anode\LED7SegAnode\impl\gwsynthesis\LED7SegAnode.vg"
+Parsing netlist file "D:\FPGA_TangNano\LED7Seg_Anode\LED7SegAnode\impl\gwsynthesis\LED7SegAnode.vg" completed
+Processing netlist completed
+Reading constraint file: "D:\FPGA_TangNano\LED7Seg_Anode\LED7SegAnode\src\LED7SegAnode.cst"
+Physical Constraint parsed completed
+Running placement......
+[10%] Placement Phase 0 completed
+[20%] Placement Phase 1 completed
+[30%] Placement Phase 2 completed
+[50%] Placement Phase 3 completed
+Running routing......
+[60%] Routing Phase 0 completed
+[70%] Routing Phase 1 completed
+[80%] Routing Phase 2 completed
+[90%] Routing Phase 3 completed
+Running timing analysis......
+[95%] Timing analysis completed
+Placement and routing completed
+Bitstream generation in progress......
+Bitstream generation completed
+Running power analysis......
+[100%] Power analysis completed
+Generate file "D:\FPGA_TangNano\LED7Seg_Anode\LED7SegAnode\impl\pnr\LED7SegAnode.power.html" completed
+Generate file "D:\FPGA_TangNano\LED7Seg_Anode\LED7SegAnode\impl\pnr\LED7SegAnode.pin.html" completed
+Generate file "D:\FPGA_TangNano\LED7Seg_Anode\LED7SegAnode\impl\pnr\LED7SegAnode.rpt.html" completed
+Generate file "D:\FPGA_TangNano\LED7Seg_Anode\LED7SegAnode\impl\pnr\LED7SegAnode.rpt.txt" completed
+Generate file "D:\FPGA_TangNano\LED7Seg_Anode\LED7SegAnode\impl\pnr\LED7SegAnode.tr.html" completed
+Sat Dec 16 01:48:40 2023
+
